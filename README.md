@@ -6,7 +6,7 @@
   <source src="video/ai_blog_genarator.mp4" type="video/mp4">
 </video>
 
-![Publishing Tab](screenshots/output1.PNG)
+![Publishing Tab](screenshots/app_preview.PNG)
 
 <video controls width="600">
   <source src="video/ai_blog_genarator.mp4" type="video/mp4">
