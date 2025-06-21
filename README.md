@@ -6,6 +6,10 @@
   <source src="video/ai_blog_genarator.mp4" type="video/mp4">
 </video>
 
+
+<video controls width="600">
+  <source src="video/ai_blog_genarator.mp4" type="video/mp4">
+</video>
 An advanced AI-powered tool that generates, edits, and publishes high-quality technical blog posts across multiple platforms.
 
 ## 🌟 Features
