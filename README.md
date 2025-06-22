@@ -6,6 +6,14 @@
   <source src="[video/ai_blog_genarator.mp4](https://drive.google.com/file/d/19LwnnJM4tVmA7IpMq6RYk8yOg2y4Z4-G/view?usp=sharing)" type="video/mp4">
 </video>
 
+
+## 📹 Demo
+
+[![Watch the Demo](assets/ai_blog_generator_thumbnail.png)](https://drive.google.com/file/d/19LwnnJM4tVmA7IpMq6RYk8yOg2y4Z4-G/view)
+
+> Click the image above to watch a quick demo of the AI Blog Generator!
+
+
 ![Publishing Tab](screenshots/app_preview.PNG)
 
 <video controls width="600">
