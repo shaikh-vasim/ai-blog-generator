@@ -3,7 +3,7 @@
 ------
 
 <video controls width="600">
-  <source src="video/ai_blog_genarator.mp4" type="video/mp4">
+  <source src="[video/ai_blog_genarator.mp4](https://drive.google.com/file/d/19LwnnJM4tVmA7IpMq6RYk8yOg2y4Z4-G/view?usp=sharing)" type="video/mp4">
 </video>
 
 ![Publishing Tab](screenshots/app_preview.PNG)
